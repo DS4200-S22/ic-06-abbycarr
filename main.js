@@ -12,5 +12,5 @@ Modified: 12/06/21
 function button1Clicked() {
     let randNum = 5;
     let numText = document.getElementById("random_num");
-    numText.innerHTML = "JIGGY";
+    numText.innerHTML = randNum;
 }
